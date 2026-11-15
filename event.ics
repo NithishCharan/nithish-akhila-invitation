@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nithish and Akhila//Engagement//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nithish-akhila-engagement-20261120@NithishCharan.github.io
+DTSTAMP:20261115T000000Z
+DTSTART:20261120T052700Z
+DTEND:20261120T103000Z
+SUMMARY:Nithish & Akhila's Engagement
+LOCATION:Vibha Grand\, Karimnagar\, Telangana\, India
+DESCRIPTION:Muhurtham at 10:57 AM IST.\nInvitation: https://NithishCharan.github.io/nithish-akhila/\nDirections: https://maps.app.goo.gl/vuzcycKhAouH8u9bA
+URL:https://NithishCharan.github.io/nithish-akhila/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nithish & Akhila's Engagement is tomorrow
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Muhurtham at 10:57 AM - Vibha Grand\, Karimnagar
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
